@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729544350019",
+    "firebase_url": "https://yorker-admin.firebaseio.com",
+    "project_id": "yorker-admin",
+    "storage_bucket": "yorker-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729544350019:android:68dac73b5a13f2ef",
+        "android_client_info": {
+          "package_name": "com.example.dinesh.eventadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729544350019-vbd215l98f5cs39v5rgtak2c9ec0v9jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0v-aD6qVDLkKclB_a3P1vcNcoW-jUIis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
